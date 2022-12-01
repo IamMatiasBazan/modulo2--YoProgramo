@@ -66,6 +66,12 @@ img {
 
 .galeria-container3 {
     position: absolute;
-    top: 18%;
+    top: 10%;
     left: 25%;
+}
+
+.galeria-container4 {
+    position: relative;
+    top: 30px;
+    right: 49.8%;
 }
