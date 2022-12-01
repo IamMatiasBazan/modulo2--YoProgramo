@@ -81,3 +81,21 @@ img {
     top: 55px;
     left: 54%;
 }
+
+.parrafo {
+    position: relative;
+    top: 100%;
+    right: 40%;
+    padding-top: 8px;
+}
+
+#parrafo-sobre-mi {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+.color {
+    position: absolute;
+    top: 120%;
+    right: 20%;
+}
