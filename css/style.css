@@ -94,15 +94,17 @@ img {
     font-size: 20px;
 }
 
-h4 {
+footer {
     position: absolute;
-    left: 52%;
+    top: 520px;
+    left: 1px;
+    right: 2px;
+    width: 125%;
+    height: 100px;
+    background-color: #13E67B;
 }
 
-footer {
-    background-color: rgb(216, 37, 37);
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-left: 80px;
-    padding-bottom: 50px;
+.color {
+    position: relative;
+    left: 42%;
 }
