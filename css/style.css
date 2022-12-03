@@ -33,7 +33,7 @@ nav ul li {
 img {
     position: relative;
     top: 20px;
-    left: 40%;
+    left: 35%;
 }
 
 #titulo {
@@ -59,15 +59,15 @@ img {
     padding-left: 70px;
 }
 
-.galeria-item{
+.galeria-item {
     position: relative;
     left: 40px;
 }
 
 .galeria-container3 {
     position: absolute;
-    top: 10%;
-    left: 25%;
+    top: 7.5%;
+    left: 20%;
 }
 
 .galeria-container4 {
