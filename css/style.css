@@ -30,6 +30,11 @@ nav ul li {
     font-family: 'Coiny', cursive;
 }
 
+li > a {
+    color:#fff;
+    text-decoration: none;
+    
+}
 img {
     position: relative;
     top: 20px;
@@ -102,6 +107,7 @@ footer {
     width: 125%;
     height: 100px;
     background-color: #13E67B;
+    border-radius: 15px 15px 0 0;
 }
 
 .color {
