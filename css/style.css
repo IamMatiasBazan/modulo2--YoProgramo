@@ -80,7 +80,7 @@ img {
 .galeria-container4 {
     position: relative;
     top: 30px;
-    right: 49.8%;
+    right: 51.2%;
 }
 
 .sobremi {
@@ -116,3 +116,68 @@ footer {
     position: relative;
     left: 42%;
 }
+
+/* CONTACTENOS */
+.contacto {
+    border: 1px solid #000;
+    padding-left: 70%;
+    padding-right: 15%;
+    position: absolute;
+    top: 120%;
+    left: 14%;
+}
+
+#espacio-contacto {
+    border: 1px solid #000;
+    position: absolute;
+    right: 17%;
+    
+}
+
+.formularios {
+    padding-bottom: 10px;
+}
+
+.formularios > input {
+    padding: 10px 10px 10px 10px;
+}
+
+#input1 {
+    position: absolute;
+    top: 60px;
+}
+
+#input2 {
+    position: absolute;
+    top: 120px;
+}
+
+#input3 {
+    position: absolute;
+    top: 180px;
+}
+
+#input4 {
+    position: absolute;
+    top: 240px;
+}
+
+.btn {
+    position: absolute;
+    top: 300px;
+    padding-left: 75%;
+}
+
+#btn-span {
+    position: relative;
+    right: 115px;
+}
+/* CERRAR CONTACTENOS */
+
+/* FOOTER */
+h4 {
+    position: relative;
+    top: 10px;
+}
+
+/* CERRAR FOOTER */
