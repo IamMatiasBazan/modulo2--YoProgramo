@@ -160,11 +160,12 @@ footer {
 #input4 {
     position: absolute;
     top: 240px;
+    padding-top: 100px;
 }
 
 .btn {
     position: absolute;
-    top: 300px;
+    top: 400px;
     padding-left: 75%;
 }
 
