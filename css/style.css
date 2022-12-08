@@ -169,6 +169,11 @@ footer {
     padding-left: 75%;
 }
 
+input::placeholder{
+    position: absolute;
+    top: 10px;
+}
+
 #btn-span {
     position: relative;
     right: 115px;
